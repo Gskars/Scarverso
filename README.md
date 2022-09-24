@@ -1,9 +1,7 @@
 # Scarverso
-
-
-
-
 <h3>Projeto desenvolvido na "imersãoDev" da Alura, cujo objetivo foi s demonstração de Filmes do universo Marvel que mais me agradam.</h3>
+
+![pd](https://user-images.githubusercontent.com/112108655/192116318-2b96aa46-92d5-483e-81cb-a6d93a2c2955.png)
 
 Site: https://gskars.github.io/Scarverso/
 
