@@ -14,10 +14,9 @@
 </ul>
  
  # Contatos:
- <UL>
- <LI>Email: gscardazi@hotmail.com     </LI>
- <LI>Linkedin: https://www.linkedin.com/in/guilherme-scardazi-67875a1b8/   </LI>
- </UL>
+- Email: gscardazi@hotmail.com
+- Linkedin: https://www.linkedin.com/in/guilherme-scardazi-67875a1b8/
+
 
 
 
